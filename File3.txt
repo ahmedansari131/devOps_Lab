@@ -1,1 +1,2 @@
 This is file 3
+File 3 updated by the pull successfully.
